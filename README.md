@@ -218,7 +218,3 @@ This ensures repeatable and production-style execution.
 This project demonstrates a **production-ready analytics and ML workflow** on Databricks, combining data engineering, machine learning, and business analytics.
 
 It reflects real-world practices and serves as a strong portfolio project for **Data Engineer / Data Analyst / ML roles**.
-
----
-
-✅ Built as part of the **Databricks 14-Day Challenge**
