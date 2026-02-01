@@ -43,7 +43,6 @@ SQL Dashboards & Insights
 ## 📂 Dataset
 
 * **Source**: Bank customer churn dataset
-* **Size**: 20,000 customers
 * **Key Attributes**:
 
   * Credit Score
